@@ -15,8 +15,10 @@
         </p>
       </div>
       <div style="margin-top: 12px;">
-        <p style="margin: 2px 0; font-size: 13px;">📧 <a href="mailto:neilpascual@example.com" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">neilpascual@example.com</a></p>
+        <p style="margin: 2px 0; font-size: 13px;">📧 <a href="mailto:neilaronpascual.dev@gmail.com" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">neilaronpascual.dev@gmail.com</a></p>
         <p style="margin: 2px 0; font-size: 13px;">💻 <a href="https://github.com/neilpascual" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">github.com/neilpascual</a></p>
+        <p style="margin: 2px 0; font-size: 13px;">💻 <a href="https://linkedin.com/neilpascual" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">github.com/neilpascual</a></p>
+      </div>
       </div>
     </div>
     <!-- Right column tiles -->
@@ -25,8 +27,8 @@
       <div style="border: 1px solid #000; border-radius: 8px; padding: 18px;">
         <h2 style="margin: 0 0 8px 0; font-size: 14px;">Experience</h2>
         <ul style="margin: 0; padding-left: 16px; font-size: 13px; line-height: 1.4;">
-          <li><strong>Frontend Developer</strong> — Freelance / Project-based<br><span style="opacity: 0.85;">2023 – Present</span></li>
-          <li style="margin-top: 8px;"><strong>Intern Developer</strong> — [Company / Project]<br><span style="opacity: 0.85;">2022 – 2023</span></li>
+          <li><strong>Frontend Developer</strong> — Freelance / Project-based<br><span style="opacity: 0.85;">2025 – Present</span></li>
+          <li style="margin-top: 8px;"><strong>Intern Developer</strong> — [FullSuite / Test App]<br><span style="opacity: 0.85;">Sep 2025 – December 2025</span></li>
         </ul>
       </div>
       <!-- Skills -->
