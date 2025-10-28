@@ -5,14 +5,6 @@
   max-width: 900px; margin: 0 auto; padding: 24px;
 ">
 
-  <style>
-    @media (max-width: 700px) {
-      .bento-grid {
-        grid-template-columns: 1fr !important;
-      }
-    }
-  </style>
-
   <div class="bento-grid" style="
     display: grid;
     grid-template-columns: 2fr 1fr;
