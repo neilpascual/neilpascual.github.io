@@ -1,12 +1,39 @@
-<!-- Bento-style Resume (inline styles for GitHub README) -->
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color: #000; background: #fff; max-width: 900px; margin: 0 auto; padding: 24px;">
+<!-- Responsive Bento-style Resume (inline styles for GitHub README) -->
+<div style="
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  color: #000; background: #fff;
+  max-width: 900px; margin: 0 auto; padding: 24px;
+">
 
-  <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 16px;">
+  <style>
+    @media (max-width: 700px) {
+      .bento-grid {
+        grid-template-columns: 1fr !important;
+      }
+    }
+  </style>
+
+  <div class="bento-grid" style="
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 16px;
+  ">
     <!-- Left main tile -->
-    <div style="border: 1px solid #000; border-radius: 8px; padding: 18px; display: flex; flex-direction: column; justify-content: center; gap: 8px;">
+    <div style="
+      border: 1px solid #000;
+      border-radius: 8px;
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 8px;
+      background: #fafafa;
+    ">
       <div>
         <h1 style="margin: 0; font-size: 22px;">Neil Pascual</h1>
-        <p style="margin: 4px 0; opacity: 0.85; font-size: 13px;">Web Developer — building clean, user-first web apps</p>
+        <p style="margin: 4px 0; opacity: 0.85; font-size: 13px;">
+          Web Developer — building clean, user-first web apps
+        </p>
       </div>
       <div style="margin-top: 12px;">
         <p style="margin: 0; font-size: 13px; line-height: 1.4;">
@@ -29,7 +56,7 @@
     <!-- Right column tiles -->
     <div style="display: flex; flex-direction: column; gap: 16px;">
       <!-- Experience -->
-      <div style="border: 1px solid #000; border-radius: 8px; padding: 18px;">
+      <div style="border: 1px solid #000; border-radius: 8px; padding: 18px; background: #fafafa;">
         <h2 style="margin: 0 0 8px 0; font-size: 14px;">Experience</h2>
         <ul style="margin: 0; padding-left: 16px; font-size: 13px; line-height: 1.4;">
           <li><strong>Frontend Developer</strong> — Freelance / Project-based<br><span style="opacity: 0.85;">2025 – Present</span></li>
@@ -37,7 +64,7 @@
         </ul>
       </div>
       <!-- Skills -->
-      <div style="border: 1px solid #000; border-radius: 8px; padding: 18px;">
+      <div style="border: 1px solid #000; border-radius: 8px; padding: 18px; background: #fafafa;">
         <h2 style="margin: 0 0 8px 0; font-size: 14px;">Skills</h2>
         <ul style="margin: 0; padding-left: 16px; font-size: 13px; line-height: 1.4;">
           <li><strong>Frontend:</strong> React, JavaScript (ES6+), HTML, CSS, Tailwind</li>
@@ -47,7 +74,7 @@
         </ul>
       </div>
       <!-- Projects -->
-      <div style="border: 1px solid #000; border-radius: 8px; padding: 18px;">
+      <div style="border: 1px solid #000; border-radius: 8px; padding: 18px; background: #fafafa;">
         <h2 style="margin: 0 0 8px 0; font-size: 14px;">Selected Projects</h2>
         <ul style="margin: 0; padding-left: 16px; font-size: 13px; line-height: 1.4;">
           <li>
