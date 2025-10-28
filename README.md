@@ -3,7 +3,6 @@
   <em>"Coding in silence, deploying with purpose."</em>
 </p>
 
-###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
@@ -29,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/neil-aron-pascual/" target="_blank">
@@ -49,7 +47,6 @@
   </a>
 </div>
 
-###
 <div align="center">
   <p>
     Hi, I am Neil Aron P. Pascual
@@ -63,4 +60,3 @@
 
 </div>
 
-###
