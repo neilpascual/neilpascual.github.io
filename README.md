@@ -17,7 +17,7 @@
       <div style="margin-top: 12px;">
         <p style="margin: 2px 0; font-size: 13px;">📧 <a href="mailto:neilaronpascual.dev@gmail.com" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">neilaronpascual.dev@gmail.com</a></p>
         <p style="margin: 2px 0; font-size: 13px;">💻 <a href="https://github.com/neilpascual" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">github.com/neilpascual</a></p>
-        <p style="margin: 2px 0; font-size: 13px;">💻 <a href="https://linkedin.com/neilpascual" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">github.com/neilpascual</a></p>
+        <p style="margin: 2px 0; font-size: 13px;">💻 <a href="https://linkedin.com/in/neil-aron-pascual" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">inkedin.com/in/neil-aron-pascual</a></p>
       </div>
       </div>
     </div>
