@@ -70,11 +70,11 @@
         <h2 style="margin: 0 0 8px 0; font-size: 14px;">Selected Projects</h2>
         <ul style="margin: 0; padding-left: 16px; font-size: 13px; line-height: 1.4;">
           <li>
-            <strong>Test App</strong> — Quiz and timed-test platform for applicants.<br>
+            <strong>TsekSuite</strong> — Test platform for both applicants and employees.<br>
             <a href="#" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">View Repository</a>
           </li>
           <li style="margin-top: 8px;">
-            <strong>Suitelifer</strong> — Property management and booking system.<br>
+            <strong>Suitelifer</strong> — FullSuite Website.<br>
             <a href="#" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">View Repository</a>
           </li>
         </ul>
