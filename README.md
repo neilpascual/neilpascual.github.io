@@ -72,6 +72,7 @@
           <li>
             <strong>TsekSuite</strong> — Test platform for both applicants and employees.<br>
             <a href="https://github.com/neilpascual/suitetest-frontend" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">View Repository</a>
+            <a href="https://fullsuite.tseksuite.com/auth/login" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">LIVE</a>
           </li>
           <li style="margin-top: 8px;">
             <strong>Suitelifer</strong> — FullSuite Website.<br>
