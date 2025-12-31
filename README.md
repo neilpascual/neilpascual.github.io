@@ -71,7 +71,7 @@
         <ul style="margin: 0; padding-left: 16px; font-size: 13px; line-height: 1.4;">
           <li>
             <strong>TsekSuite</strong> — Test platform for both applicants and employees.<br>
-            <a href="#" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">View Repository</a>
+            <a href="https://github.com/neilpascual/suitetest-frontend" style="color:#000; text-decoration:none; border-bottom:1px dashed #000;">View Repository</a>
           </li>
           <li style="margin-top: 8px;">
             <strong>Suitelifer</strong> — FullSuite Website.<br>
